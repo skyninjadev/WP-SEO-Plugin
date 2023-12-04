@@ -3,7 +3,7 @@
 defined( 'ABSPATH' ) or die( 'No script kiddies please!' );
 
 $np_basePath = dirname(__FILE__) . '/';
-require_once  $np_basePath . 'nitropack-sdk/autoload.php';
+require_once  $np_basePath . 'atsushipack-sdk/autoload.php';
 require_once  $np_basePath . 'constants.php';
 
 $np_originalRequestCookies = $_COOKIE;
@@ -2696,7 +2696,7 @@ function nitropack_test_compression_ajax() {
         if (\NitroPack\Integration\Hosting\Flywheel::detect()) { // Flywheel: Compression is enabled by default
             update_option("nitropack-enableCompression", 0);
         } else {
-            require_once plugin_dir_path(__FILE__) . nitropack_trailingslashit('nitropack-sdk') . 'autoload.php';
+            require_once plugin_dir_path(__FILE__) . nitropack_trailingslashit('atsushipack-sdk') . 'autoload.php';
             $http = new NitroPack\HttpClient\HttpClient(get_site_url());
             $http->setHeader("X-NitroPack-Request", 1);
             $http->timeout = 25;
