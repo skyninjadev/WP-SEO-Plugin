@@ -1,11 +1,11 @@
 <?php
 /*
-Plugin Name:  NitroPack
-Plugin URI:   https://nitropack.io/platform/wordpress
+Plugin Name:  Atsushi-Fasted-SEO
+Plugin URI:   
 Description:  Automatic optimization for site speed and Core Web Vitals. Use 35+ features, including Caching, image optimization, critical CSS, and Cloudflare CDN.
 Version:      1.10.4
 Author:       NitroPack Inc.
-Author URI:   https://nitropack.io/
+Author URI:   https://github.com/skyninjadev
 License:      GPL2
 License URI:  https://www.gnu.org/licenses/gpl-2.0.html
 Text Domain:  nitropack
