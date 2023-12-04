@@ -1,0 +1,925 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: NitroPack 1.5.17\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/nitropack-wordpress\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-12-30T04:57:27+01:00\n"
+"PO-Revision-Date: 2022-12-30 11:57+0800\n"
+"Language: en_GB\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.2\n"
+"X-Domain: nitropack\n"
+
+#. Plugin Name of the plugin
+msgid "NitroPack"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://nitropack.io/platform/wordpress"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://nitropack.io/"
+msgstr ""
+
+#: view/admin.php:3
+msgid "NitroPack.io"
+msgstr ""
+
+#: view/admin.php:11
+msgid "Dashboard"
+msgstr ""
+
+#: view/admin.php:12
+msgid "Help"
+msgstr ""
+
+#: view/admin.php:13
+msgid "Diagnostics"
+msgstr ""
+
+#: view/connect.php:5
+msgid "Welcome to NitroPack for WordPress!"
+msgstr ""
+
+#: view/connect.php:6
+msgid "This page will help you to connect your WordPress site with NitroPack in few steps."
+msgstr ""
+
+#: view/connect.php:9
+msgid "Let's Get Started!"
+msgstr ""
+
+#: view/connect.php:10
+msgid "In order to connect NitroPack with WordPress you need to configure your API details. More information how to obtain these values can be found"
+msgstr ""
+
+#: view/connect.php:15
+msgid "Welcome!"
+msgstr ""
+
+#: view/connect.php:17
+msgid "Enter site ID and site secret to start using NitroPack"
+msgstr ""
+
+#: view/connect.php:24
+msgid "Connect to NitroPack"
+msgstr ""
+
+#: view/connect.php:29
+#: view/connect.php:123
+msgid "Connect manually"
+msgstr ""
+
+#: view/connect.php:32
+msgid "Having trouble connecting? Head over to"
+msgstr ""
+
+#: view/dashboard.php:28
+msgid "Notifications"
+msgstr ""
+
+#: view/dashboard.php:50
+msgid "Optimized Pages"
+msgstr ""
+
+#: view/dashboard.php:51
+msgid "Processing"
+msgstr ""
+
+#: view/dashboard.php:59
+msgid "Last cache purge:"
+msgstr ""
+
+#: view/dashboard.php:60
+msgid "Reason:"
+msgstr ""
+
+#: view/dashboard.php:60
+msgid "Unknown"
+msgstr ""
+
+#: view/dashboard.php:63
+msgid "mobile pages"
+msgstr ""
+
+#: view/dashboard.php:64
+msgid "tablet pages"
+msgstr ""
+
+#: view/dashboard.php:65
+msgid "desktop pages"
+msgstr ""
+
+#: view/dashboard.php:71
+msgid "Purge Cache"
+msgstr ""
+
+#: view/dashboard.php:81
+msgid "Plan"
+msgstr ""
+
+#: view/dashboard.php:83
+msgid "Manage plan"
+msgstr ""
+
+#: view/dashboard.php:86
+msgid "Next Reset"
+msgstr ""
+
+#: view/dashboard.php:87
+msgid "Next Billing"
+msgstr ""
+
+#: view/dashboard.php:89
+msgid "You will be notified if you approach the plan resource limit"
+msgstr ""
+
+#: view/dashboard.php:98
+msgid "Optimization Mode"
+msgstr ""
+
+#: view/dashboard.php:99
+msgid "Slide to change your settings. This will update the level of optimization."
+msgstr ""
+
+#: view/dashboard.php:116
+msgid "A basic set of optimizations enough to get you up and running. Includes CDN and lossless image optimization."
+msgstr ""
+
+#: view/dashboard.php:119
+msgid "Medium"
+msgstr ""
+
+#: view/dashboard.php:120
+msgid "Well-balanced and suitable for many cases."
+msgstr ""
+
+#: view/dashboard.php:123
+msgid "Strong"
+msgstr ""
+
+#: view/dashboard.php:124
+msgid "Very stable. Includes advanced features like automatic image lazy loading and font definition modification. This is the recommended optimization mode."
+msgstr ""
+
+#: view/dashboard.php:127
+msgid "Ludicrous"
+msgstr ""
+
+#: view/dashboard.php:128
+msgid "A pre-defined configuration aiming to achieve the fastest possible speed. Prioritizes rendering."
+msgstr ""
+
+#: view/dashboard.php:131
+msgid "Manual"
+msgstr ""
+
+#: view/dashboard.php:132
+msgid "Use your own settings."
+msgstr ""
+
+#: view/dashboard.php:132
+msgid "Click here"
+msgstr ""
+
+#: view/dashboard.php:132
+msgid "to configure them."
+msgstr ""
+
+#: view/dashboard.php:153
+#: view/dashboard.php:167
+msgid "here"
+msgstr ""
+
+#: view/dashboard.php:156
+msgid "Loading cache warmup status"
+msgstr ""
+
+#: view/dashboard.php:166
+#: view/safemode.php:11
+msgid "Safe Mode"
+msgstr ""
+
+#: view/dashboard.php:153
+#: view/dashboard.php:167
+msgid "Learn more about this feature"
+msgstr ""
+
+#: view/dashboard.php:170
+msgid "Loading safe mode status"
+msgstr ""
+
+#: view/dashboard.php:180
+#: view/dashboard.php:665
+msgid "Testing current compression status"
+msgstr ""
+
+#: view/dashboard.php:181
+msgid "HTML Compression"
+msgstr ""
+
+#: view/dashboard.php:191
+msgid "Ecommerce Cart Cache"
+msgstr ""
+
+#: view/dashboard.php:192
+msgid "Your visitors will enjoy full site speed while browsing with items in cart. Fully optimized page cache will be served."
+msgstr ""
+
+#: view/dashboard.php:204
+msgid "Disconnect"
+msgstr ""
+
+#: view/dashboard.php:208
+msgid "You can further configure how NitroPack's optimization behaves through your account at"
+msgstr ""
+
+#: view/dashboard.php:220
+msgid "Purge affected cache when content is updated or published"
+msgstr ""
+
+#: view/dashboard.php:230
+msgid "Purge NitroPack cache when Beaver Builder cache is purged"
+msgstr ""
+
+#: view/dashboard.php:231
+msgid "Warning: This will perform a full NitroPack cache purge"
+msgstr ""
+
+#: view/dashboard.php:242
+msgid "Select what post/page types get optimized"
+msgstr ""
+
+#: view/dashboard.php:260
+msgid "Configure page types that can be optimized"
+msgstr ""
+
+#: view/dashboard.php:294
+msgid "Close"
+msgstr ""
+
+#: view/dashboard.php:295
+msgid "Save changes"
+msgstr ""
+
+#: view/diag.php:7
+msgid "Diagnostics report"
+msgstr ""
+
+#: view/diag.php:11
+msgid "Include NitroPack info(version, methods, environment)"
+msgstr ""
+
+#: view/diag.php:22
+msgid "Include active plugins list"
+msgstr ""
+
+#: view/diag.php:33
+msgid "Include conflicting plugins list"
+msgstr ""
+
+#: view/diag.php:44
+msgid "Include user config"
+msgstr ""
+
+#: view/diag.php:55
+msgid "Include directory info(structure,permissions)"
+msgstr ""
+
+#: view/diag.php:66
+msgid "Generate&nbsp;Report"
+msgstr ""
+
+#: view/diag.php:70
+msgid "The generated report will be saved to your computer and can later be attached to your ticket."
+msgstr ""
+
+#: view/help.php:6
+msgid "Can I use another page caching plugin and NitroPack.io at the same time?"
+msgstr ""
+
+#: view/help.php:9
+msgid "WordPress is designed in a way that you can use only a single page cache solution at a time. Such is the case with other page cache solutions too. You can use other non-page cache optimization solutions perfectly well with NitroPack.io (example: ShortPixel)."
+msgstr ""
+
+#: view/help.php:18
+msgid "What is an optimization?"
+msgstr ""
+
+#: view/help.php:21
+msgid "An 'optimization' is when our service optimizes a single version of one of your site URLs. The result is then cached on your website and it is served to all visitors until the cache is deleted or becomes invalid. After that, a second optimization is required for the same URL."
+msgstr ""
+
+#: view/help.php:30
+msgid "What is the difference between Invalidate and Purge?"
+msgstr ""
+
+#: view/help.php:33
+msgid "When our service optimizes the content for a specific page, this content is cached on your site, and it is subsequently served to future visitors. There are two ways to refresh this content - Invalidate and Purge."
+msgstr ""
+
+#: view/help.php:35
+msgid "Invalidate only marks the cached content as \"stale\", but keeps serving it until newly optimized content is available. As a result, your visitors always see optimized content, even though it may be outdated for a short while."
+msgstr ""
+
+#: view/help.php:37
+msgid "Purge deletes the cached file from your site, meaning your site visitors will see the updated content immediately, but it will not be optimized for a few requests until NitroPack prepares the newly optimized content. Usually, this takes between a few seconds to a few minutes."
+msgstr ""
+
+#: view/help.php:46
+msgid "How often should I purge / invalidate the cache?"
+msgstr ""
+
+#: view/help.php:49
+msgid "Typically, you should not need to do a cache purge / invalidate manually. You can take these actions in case you want to force NitroPack.io to re-cache the updated site content immediately. In most cases, NitroPack.io takes care of updating the content automatically."
+msgstr ""
+
+#: view/help.php:58
+msgid "If I modify an image/CSS/JS file on my site, why is it not updated in the NitroPack.io CDN?"
+msgstr ""
+
+#: view/help.php:61
+msgid "To avoid excessive traffic to your site, we need to cache your image/CSS/JS files on our servers. If you modify the file contents on your end, this will not update it on our end. This expected behavior is a common practice on many other caching solutions (CDN, browser caching, etc.)"
+msgstr ""
+
+#: view/help.php:63
+msgid "To force NitroPack to download the new file, you can either:"
+msgstr ""
+
+#: view/help.php:65
+msgid "Option 1) Save the file with a different name, and update your site content to use the new name. After that, please make sure to invalidate all NitroPack cache. Doing this is the best way to ensure the updated content will be re-cached while avoiding excessive traffic to your server."
+msgstr ""
+
+#: view/help.php:67
+msgid "Option 2) Do a complete purge of your NitroPack cache, forcing our service to re-download all resources."
+msgstr ""
+
+#: view/help.php:76
+msgid "What are the advantages and disadvantages of Medium, Strong, and Ludicrous?"
+msgstr ""
+
+#: view/help.php:79
+msgid "Ludicrous mode ensures you receive the highest possible PageSpeed score, as it uses a resource loader script which alters the way your CSS and JS resources are loaded/rendered (in some cases, some resources are delayed). The resource loader is generally stable, but on some themes, it may cause unexpected behavior."
+msgstr ""
+
+#: view/help.php:81
+msgid "Strong mode also has a resource loader, but it is loading your resources without delaying them - this produces better stability, but also gives lower PageSpeed scores compared to Ludicrous mode."
+msgstr ""
+
+#: view/help.php:83
+msgid "Finally, Medium does not have the resource loader enabled, ensuring better stability, but it does not give the best PageSpeed scores."
+msgstr ""
+
+#: view/help.php:85
+msgid "Which option is best for you depends on the way your theme is coded, and the 3rd party CSS and JS resources it utilizes. As a rule of thumb, the best mode is the one which produces the highest scores with the least user experience issues."
+msgstr ""
+
+#: view/help.php:94
+msgid "Which optimization mode would you recommend me to use?"
+msgstr ""
+
+#: view/help.php:97
+msgid "We recommend you to use the Strong mode. If your score is below 80 points on it, we recommend trying the Ludicrous mode. If Ludicrous mode seems too aggressive (as it is delaying the loading of most of the resources), you can stick to using Strong mode."
+msgstr ""
+
+#: view/admin.php:153
+msgid "Error:"
+msgstr ""
+
+#: view/admin.php:155
+msgid "Error: We were unable to restore the connection. Please contact our support team to get this resolved."
+msgstr ""
+
+#: view/connect.php:18
+msgid "Site "
+msgstr ""
+
+#: view/connect.php:19
+msgid "Site Secret"
+msgstr ""
+
+#: view/connect.php:93
+msgid "Api details verification failed! Please check whether you entered correct details."
+msgstr ""
+
+#: view/connect.php:130
+msgid "Connect automatically"
+msgstr ""
+
+#: view/dashboard.php:53
+msgid "Click to learn more"
+msgstr ""
+
+#: view/dashboard.php:59
+msgid "Never"
+msgstr ""
+
+#: view/dashboard.php:86
+#: view/dashboard.php:87
+msgid "No ETA"
+msgstr ""
+
+#: view/dashboard.php:111
+msgid "Dummy"
+msgstr ""
+
+#: view/dashboard.php:115
+msgid "Standard"
+msgstr ""
+
+#: functions.php:3017
+#: view/dashboard.php:143
+msgid "Settings"
+msgstr ""
+
+#: view/dashboard.php:146
+msgid "Cache Warmup"
+msgstr ""
+
+#: view/dashboard.php:181
+msgid "Automatically detect whether compression is needed"
+msgstr ""
+
+#: view/dashboard.php:191
+msgid "New"
+msgstr ""
+
+#: view/dashboard.php:191
+msgid "Requires a paid subscription"
+msgstr ""
+
+#: view/dashboard.php:217
+msgid "Automated Behavior"
+msgstr ""
+
+#: view/dashboard.php:392
+msgid "Estimating optimizations usage"
+msgstr ""
+
+#: view/dashboard.php:405
+#: view/dashboard.php:438
+msgid "Warmup estimation failed"
+msgstr ""
+
+#: view/dashboard.php:417
+msgid "Warmup estimation failed. Please try again or contact support if the issue persists."
+msgstr ""
+
+#: view/dashboard.php:425
+msgid "We could not find any links for warming up on your home page"
+msgstr ""
+
+#: view/dashboard.php:428
+msgid "No"
+msgstr ""
+
+#: view/dashboard.php:428
+msgid "Yes"
+msgstr ""
+
+#: view/dashboard.php:445
+msgid "Enabling warmup"
+msgstr ""
+
+#: view/dashboard.php:569
+msgid "Error while fetching optimizations data"
+msgstr ""
+
+#: view/dashboard.php:620
+msgid "Error while fetching plan data"
+msgstr ""
+
+#: view/dashboard.php:651
+msgid "Error while fetching the optimization level settings"
+msgstr ""
+
+#: view/dashboard.php:674
+msgid "Compression is already enabled on your server! There is no need to enable it in NitroPack."
+msgstr ""
+
+#: view/dashboard.php:677
+msgid "No compression was detected! We will now enable it in NitroPack."
+msgstr ""
+
+#: view/dashboard.php:681
+msgid "Could not determine compression status automatically. Please configure it manually."
+msgstr ""
+
+#: view/dashboard.php:693
+msgid "Compression settings saved"
+msgstr ""
+
+#: view/dashboard.php:702
+msgid "Automatic cache purge settings saved"
+msgstr ""
+
+#: view/dashboard.php:725
+msgid "Beaver Builder cache purge sync settings are saved."
+msgstr ""
+
+#: view/dashboard.php:739
+msgid "Changes saved"
+msgstr ""
+
+#: view/dashboard.php:742
+msgid "There was an error while saving the changes. Please try again."
+msgstr ""
+
+#: view/dashboard.php:758
+msgid "Disconnecting..."
+msgstr ""
+
+#: view/dashboard.php:783
+msgid "Are you sure that you wish to disconnect?"
+msgstr ""
+
+#: view/diag.php:105
+msgid "Please select at least one of the report options"
+msgstr ""
+
+#: view/diag.php:147
+msgid "Report generated successfully."
+msgstr ""
+
+#: view/diag.php:149
+msgid "Response is empty. Report generation failed."
+msgstr ""
+
+#: view/diag.php:153
+msgid "There was an error while generating the report."
+msgstr ""
+
+#: view/safemode.php:7
+msgid "Did you know..."
+msgstr ""
+
+#: view/safemode.php:10
+msgid "It is not necessary to deactivate NitroPack for troubleshooting."
+msgstr ""
+
+#: view/safemode.php:11
+msgid "You can use our"
+msgstr ""
+
+#: view/safemode.php:11
+msgid "instead."
+msgstr ""
+
+#: view/safemode.php:11
+msgid "Do you still want to deactivate?"
+msgstr ""
+
+#: view/safemode.php:14
+msgid "Yes, deactivate"
+msgstr ""
+
+#: view/safemode.php:15
+msgid "No, enable \"Safe Mode\""
+msgstr ""
+
+#: functions.php:2325
+msgid "Permission Error: "
+msgstr ""
+
+#: functions.php:2327
+msgid "Error while fetching remote config: "
+msgstr ""
+
+#: functions.php:2329
+msgid "Can't establish connection with NitroPack's servers"
+msgstr ""
+
+#: functions.php:2331
+msgid "Incorrect API credentials. Please make sure that you copied them correctly and try again."
+msgstr ""
+
+#: functions.php:2405
+msgid "Error! There was an error while updating cart cache!"
+msgstr ""
+
+#: functions.php:2427
+msgid "Success! Cacheable post types have been updated!"
+msgstr ""
+
+#: functions.php:2510
+msgid "Success! Cache warmup has been enabled successfully!"
+msgstr ""
+
+#: functions.php:2516
+msgid "Error! There was an error while enabling the cache warmup!"
+msgstr ""
+
+#: functions.php:2531
+msgid "Success! Cache warmup has been disabled successfully!"
+msgstr ""
+
+#: functions.php:2537
+msgid "Error! There was an error while disabling the cache warmup!"
+msgstr ""
+
+#: functions.php:2550
+msgid "Success! Cache warmup has been started successfully!"
+msgstr ""
+
+#: functions.php:2556
+msgid "Error! There was an error while starting the cache warmup!"
+msgstr ""
+
+#: functions.php:2620
+msgid "Error! There was an error while estimating the cache warmup!"
+msgstr ""
+
+#: functions.php:2631
+#: functions.php:2643
+msgid "Error! There was an error while fetching warmup stats!"
+msgstr ""
+
+#: functions.php:2657
+msgid "Success! Safe mode has been enabled successfully!"
+msgstr ""
+
+#: functions.php:2663
+msgid "Error! There was an error while enabling safe mode!"
+msgstr ""
+
+#: functions.php:2677
+msgid "Success! Safe mode has been disabled successfully!"
+msgstr ""
+
+#: functions.php:2683
+msgid "Error! There was an error while disabling safe mode!"
+msgstr ""
+
+#: functions.php:2694
+msgid "Success! Cart cache has been enabled successfully!"
+msgstr ""
+
+#: functions.php:2702
+msgid "Error! There was an error while enabling cart cache!"
+msgstr ""
+
+#: functions.php:2713
+msgid "Success! Cart cache has been disabled successfully!"
+msgstr ""
+
+#: functions.php:2721
+msgid "Error! There was an error while disabling cart cache!"
+msgstr ""
+
+#: functions.php:2997
+msgid "Connect NitroPack&nbsp;&nbsp;"
+msgstr ""
+
+#: functions.php:3221
+msgid "The file /wp-content/advanced-cache.php was either missing or not the one generated by NitroPack. NitroPack re-installed its version of the file, so it can function properly. Possibly there is another active page caching plugin in your system. For correct operation, please deactivate any other page caching plugins."
+msgstr ""
+
+#: functions.php:3224
+#: functions.php:3234
+msgid "The file /wp-content/advanced-cache.php cannot be created. Please make sure that the /wp-content/ directory is writable and refresh this page."
+msgstr ""
+
+#: functions.php:3232
+msgid "The file /wp-content/advanced-cache.php cannot be created because a conflicting plugin is active. Please make sure to disable all conflicting plugins."
+msgstr ""
+
+#: functions.php:3247
+msgid "The WP_CACHE setting is not enabled. Please go to your FlyWheel control panel and enable this setting. You can find more information <a href='https://getflywheel.com/wordpress-support/how-to-enable-wp_cache/' target='_blank'>in this document</a>."
+msgstr ""
+
+#: functions.php:3249
+msgid "The WP_CACHE constant cannot be set in the wp-config.php file. This can lead to slower cache delivery. Please make sure that the /wp-config.php file is writable and refresh this page."
+msgstr ""
+
+#: functions.php:3255
+msgid "Unable to configure LiteSpeed specific rules for maximum performance. Please make sure your .htaccess file is writable or contact support."
+msgstr ""
+
+#: functions.php:3260
+msgid "The NitroPack data directory cannot be created. Please make sure that the /wp-content/ directory is writable and refresh this page."
+msgstr ""
+
+#: functions.php:3276
+msgid "The NitroPack static config file cannot be created. Please make sure that the /wp-content/nitropack/ directory is writable and refresh this page."
+msgstr ""
+
+#: functions.php:3279
+#: functions.php:3334
+msgid "The NitroPack static config file cannot be updated. Please make sure that the /wp-content/nitropack/ directory is writable and refresh this page."
+msgstr ""
+
+#: functions.php:3299
+msgid "Unable to configure webhooks. This can impact the stability of the plugin. Please disconnect and connect again in order to retry configuring the webhooks."
+msgstr ""
+
+#: diagnostics.php:32
+#: diagnostics.php:47
+#: diagnostics.php:48
+#: diagnostics.php:102
+msgid "OK"
+msgstr ""
+
+#: diagnostics.php:32
+msgid "Warning: Webhooks do not match this site"
+msgstr ""
+
+#: diagnostics.php:37
+msgid "Site config cannot be found, because "
+msgstr ""
+
+#: diagnostics.php:49
+msgid "Bad request."
+msgstr ""
+
+#: diagnostics.php:50
+msgid "Payment required. Please, contact NP support for details."
+msgstr ""
+
+#: diagnostics.php:51
+msgid "Site disabled. Please, contact NP support for details."
+msgstr ""
+
+#: diagnostics.php:52
+msgid "URL used for the API poll request returned 404. Please ignore this."
+msgstr ""
+
+#: diagnostics.php:53
+msgid "Conflict. There is another operation, which prevents accepting optimization requests at the moment. Please, contact NP support for details."
+msgstr ""
+
+#: diagnostics.php:54
+msgid "Runtime error."
+msgstr ""
+
+#: diagnostics.php:55
+msgid "Service unavailable."
+msgstr ""
+
+#: diagnostics.php:56
+msgid "Unknown."
+msgstr ""
+
+#: diagnostics.php:61
+msgid "NitroPack Diagnostic Agent"
+msgstr ""
+
+#: diagnostics.php:80
+msgid "Error: "
+msgstr ""
+
+#: diagnostics.php:83
+#: diagnostics.php:92
+#: diagnostics.php:100
+#: diagnostics.php:101
+msgid "Error: Cannot get an SDK instance"
+msgstr ""
+
+#: diagnostics.php:90
+#: diagnostics.php:93
+#: diagnostics.php:94
+#: diagnostics.php:95
+#: diagnostics.php:96
+#: diagnostics.php:98
+#: diagnostics.php:99
+#: diagnostics.php:154
+msgid "Undefined"
+msgstr ""
+
+#: diagnostics.php:94
+msgid "OK for drop-in"
+msgstr ""
+
+#: diagnostics.php:94
+msgid "Turned off"
+msgstr ""
+
+#: diagnostics.php:102
+msgid "Warning: \"stream_socket_client\" function is disabled."
+msgstr ""
+
+#: diagnostics.php:137
+msgid "Config found, but unable to get contents."
+msgstr ""
+
+#: diagnostics.php:140
+msgid "Config file not found."
+msgstr ""
+
+#: diagnostics.php:143
+msgid "Config file constant is not defined."
+msgstr ""
+
+#: diagnostics.php:165
+msgid " is a file not a directory"
+msgstr ""
+
+#: diagnostics.php:167
+msgid "Directory not found"
+msgstr ""
+
+#: diagnostics.php:179
+msgid "None detected"
+msgstr ""
+
+#: diagnostics.php:188
+msgid "Not found"
+msgstr ""
+
+#: functions.php:1714
+#: functions.php:1807
+#: functions.php:1824
+#: wp-cli.php:74
+msgid "Success! Cache has been purged successfully!"
+msgstr ""
+
+#: functions.php:1721
+#: functions.php:1815
+#: functions.php:1831
+#: wp-cli.php:81
+msgid "Error! There was an error and the cache was not purged!"
+msgstr ""
+
+#: functions.php:1730
+#: functions.php:1857
+#: wp-cli.php:105
+msgid "Success! Cache has been invalidated successfully!"
+msgstr ""
+
+#: functions.php:1737
+#: functions.php:1865
+#: wp-cli.php:112
+msgid "Error! There was an error and the cache was not invalidated!"
+msgstr ""
+
+#: functions.php:1748
+msgid "Success! The residual cache has been cleared successfully!"
+msgstr ""
+
+#: functions.php:1754
+msgid "Error! There was an error clearing the residual cache!"
+msgstr ""
+
+#: functions.php:2192
+msgid "Webhook Error: "
+msgstr ""
+
+#: functions.php:2195
+msgid "Unable to get SDK instance"
+msgstr ""
+
+#: functions.php:2198
+msgid "Incomplete site config. Please reinstall the plugin!"
+msgstr ""
+
+#: functions.php:2249
+msgid "Site ID and Site Secret cannot be empty"
+msgstr ""
+
+#: functions.php:2257
+msgid "Invalid Site ID or Site Secret value"
+msgstr ""
+
+#: functions.php:2266
+msgid "Error when trying to communicate with NitroPack's servers. Please try again in a few minutes. If the issue persists, please"
+msgstr ""
+
+#: functions.php:2570
+msgid "Error! Invalid estimation ID!"
+msgstr ""
+
+#: classes/Integration/Plugin/AdvancedMathCaptcha.php:316
+msgid "Invalid request."
+msgstr ""
+
+#. Description of the plugin
+msgid "Automatic optimization for site speed and Core Web Vitals. Use 35+ features, including Caching, image optimization, critical CSS, and Cloudflare CDN."
+msgstr ""
+
+#. Author of the plugin
+msgid "NitroPack Inc."
+msgstr ""
+
+#: functions.php:2733
+msgid "Error! There was an API error while fetching status of safe mode!"
+msgstr ""
+
+#: functions.php:2753
+msgid "Error! There was an SDK error while fetching status of safe mode!"
+msgstr ""
+
+#: functions.php:3029
+msgid "Purge Entire Cache"
+msgstr ""
+
+#: functions.php:3044
+msgid "Purge Current Page"
+msgstr ""
+
+#: functions.php:3056
+msgid "Invalidate Current Page"
+msgstr ""

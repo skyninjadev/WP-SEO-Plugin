@@ -1,0 +1,26 @@
+.nitro.fa, .nitro.far, .nitro.fas {
+    font-family: FontAwesome !important;
+    font-weight: 900!important;
+}
+
+.nitro-status-ok {
+    color: #28a745;
+}
+
+.nitro-status-blue {
+    color: royalblue;
+}
+
+.nitro-status-error {
+    color: red;
+}
+
+.nitro-status-warning {
+    color: orange;
+}
+
+.nitro-status {
+    width: 9px!important;
+    font-size: 9px!important;
+    vertical-align: middle!important;
+}
