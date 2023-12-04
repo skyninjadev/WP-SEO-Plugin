@@ -1,26 +1,25 @@
-=== NitroPack – Cache & Speed Optimization for Core Web Vitals, Defer CSS & JavaScript, Lazy load Images ===
-Contributors: nitropack
+=== Fastest SEO – Cache & Speed Optimization for Core Web Vitals, Defer CSS & JavaScript, Lazy load Images ===
+Contributors: Fastest SEO
 Tags: caching,performance,optimize,pagespeed,lazy load,cdn,critical css,compression,defer css javascript,minify css,minify,web vitals
 Requires at least: 4.7
 Tested up to: 6.4.1
 Requires PHP: 5.6
 Stable tag: 1.10.4
 License: GNU General Public License, version 2
-License URI: https://www.gnu.org/licenses/gpl-2.0.html
+License URI:
 
 Automatic optimization for site speed and Core Web Vitals. Use 35+ features, including Caching, image optimization, critical CSS, and Cloudflare CDN.
 
 == Description ==
-Speed up your WordPress site, achieve a 90+ PageSpeed Insights score, and pass your Core Web Vitals with [NitroPack](https://nitropack.io/?utm_source=wp-repo&utm_medium=link&utm_term=description&utm_campaign=WP-plugin&utm_content=NitroPack). NitroPack is the leading all-in-one site speed optimization solution that helps hundreds of thousands of websites globally rank higher on Google, increase conversions and grow their business. It combines all the features a website owner might need for a fast website - аdvanced caching, complete image optimization, code optimization, built-in global CDN, lazy loading, and more.
+Speed up your WordPress site, achieve a 90+ PageSpeed Insights score, and pass your Core Web Vitals with [Fastest SEO]. Fastest SEO is the leading all-in-one site speed optimization solution that helps hundreds of thousands of websites globally rank higher on Google, increase conversions and grow their business. It combines all the features a website owner might need for a fast website - аdvanced caching, complete image optimization, code optimization, built-in global CDN, lazy loading, and more.
 
-[youtube https://www.youtube.com/watch?v=jLzYUKSo5Jo]
 
-NitroPack performs all optimizations in the cloud. So unlike traditional caching plugins, we won’t add any overhead CPU and slow down your site unnecessarily. NitroPack is fully automated, so all it takes to set up is a few clicks. Once connected, it will work seamlessly, keeping your site optimized and fast 24/7. 
+Fastest SEO performs all optimizations in the cloud. So unlike traditional caching plugins, we won’t add any overhead CPU and slow down your site unnecessarily. Fastest SEO is fully automated, so all it takes to set up is a few clicks. Once connected, it will work seamlessly, keeping your site optimized and fast 24/7. 
 
-[Speed up your site with NitroPack](https://nitropack.io/?utm_source=wp-repo&utm_medium=link&utm_term=description&utm_campaign=WP-plugin&utm_content=speed-up-your-site-with-nitropack)
+[Speed up your site with Fastest SEO](https://Fastest SEO.io/?utm_source=wp-repo&utm_medium=link&utm_term=description&utm_campaign=WP-plugin&utm_content=speed-up-your-site-with-Fastest SEO)
 
 ## 💾 ADVANCED CACHING:
-NitroPack ensures a 90+ cache hit ratio with tons of advanced features that enhance your current caching system and offer you uninterrupted stability during high-traffic situations.
+Fastest SEO ensures a 90+ cache hit ratio with tons of advanced features that enhance your current caching system and offer you uninterrupted stability during high-traffic situations.
 
  - Automatic Cache Warmup
  - Smart invalidation 
@@ -28,40 +27,40 @@ NitroPack ensures a 90+ cache hit ratio with tons of advanced features that enha
  - Built-in browser cache
 
 ## 🛠️ CODE OPTIMIZATION:
-The powerful optimization set of NitroPack allows you to concatenate your code structure: you can minify, compress, and merge your HTML, CSS, and JS files - all with just a click of a button.
+The powerful optimization set of Fastest SEO allows you to concatenate your code structure: you can minify, compress, and merge your HTML, CSS, and JS files - all with just a click of a button.
 
  - HTML, CSS, and JS minification & compression
  - Merge CSS & JS
- - [Critical CSS](https://nitropack.io/blog/post/critical-css?utm_source=wp-repo&utm_medium=link&utm_campaign=WP-plugin&utm_content=critical-css)
- - [DNS prefetching & preloading](https://nitropack.io/blog/post/resource-hints-performance-optimization?utm_source=wp-repo&utm_medium=link&utm_campaign=WP-plugin&utm_content=DNC-prefetching-preloarding)
+ - [Critical CSS]
+ - [DNS prefetching & preloading]
 
 ## 🖼️ IMAGE OPTIMIZATION:
-Say goodbye to the frustration of manual adjustments and external tools. With NitroPack, image optimization is as simple as pressing a button.Once installed, prepare to be wowed as your image file sizes shrink by up to 7x while preserving their quality, allowing your content to be served at lightning speed. And the best part? NitroPack's magic extends to background images too! Let your images tell their stories without dragging your site's performance down.
+Say goodbye to the frustration of manual adjustments and external tools. With Fastest SEO, image optimization is as simple as pressing a button.Once installed, prepare to be wowed as your image file sizes shrink by up to 7x while preserving their quality, allowing your content to be served at lightning speed. And the best part? Fastest SEO's magic extends to background images too! Let your images tell their stories without dragging your site's performance down.
 
  - Automatic image optimization 
  - WebP conversion 
  - Lossy and lossless image compression 
  - Advanced lazy loading
  - Preemptive image sizing
- - [Adaptive image sizing](https://nitropack.io/blog/post/new-adaptive-image-sizing?utm_source=wp-repo&utm_medium=link&utm_campaign=WP-plugin&utm_content=adaptive-image-sizing)
+ - [Adaptive image sizing]
 
 ## ✏️ FONT OPTIMIZATION:
-Improve your site’s speed by optimizing all your fonts. No matter the web font you’re using, Nitropack allows you to defer the font loading and reduce the file size by over 60% by removing unused glyphs. Keep your site looking unique without compromising speed and performance.
+Improve your site’s speed by optimizing all your fonts. No matter the web font you’re using, Fastest SEO allows you to defer the font loading and reduce the file size by over 60% by removing unused glyphs. Keep your site looking unique without compromising speed and performance.
  
  - Delayed loading of fonts
- - [Font subsetting](https://nitropack.io/blog/post/font-subsetting-nitropack?utm_source=wp-repo&utm_medium=link&utm_campaign=WP-plugin&utm_content=font-subsetting)
+ - [Font subsetting]
 
 ## 🌐 BUILT-IN RELIABLE CDN: 
-NitroPack offers a Cloudflare CDN as part of the package. With hundreds of servers stationed across 100+ countries, your site and resources are delivered quickly to all visitors, no matter their location.
+Fastest SEO offers a Cloudflare CDN as part of the package. With hundreds of servers stationed across 100+ countries, your site and resources are delivered quickly to all visitors, no matter their location.
 
  - Global CDN 
  - GZIP and Brotli Compression
  - HTTP/2 Compatibility
 
-To view a complete list of NitroPack’s features, visit the [feature page](https://nitropack.io/page/features?utm_source=wp-repo&utm_medium=link&utm_term=description&utm_campaign=WP-plugin&utm_content=feature-page).
+To view a complete list of Fastest SEO’s features, visit the [feature page].
 
 ## 🔌 COMPATIBILITIES:
-NitroPack integrates seamlessly with the most popular WordPress plugins and themes to provide a smooth user experience:
+Fastest SEO integrates seamlessly with the most popular WordPress plugins and themes to provide a smooth user experience:
 
 ### Plugins:
  - WooCommerce
@@ -85,25 +84,25 @@ NitroPack integrates seamlessly with the most popular WordPress plugins and them
  - And more
 
 ## 👩‍🔧 RELIABLE TESTING:
-Integrating a new tool into your tech stack can be concerning due to stability issues. NitroPack's Safe Mode lets you test features without affecting your visitor’s experience. NitroPack works exclusively on copies of your site files, ensuring no change impacts your original files.
+Integrating a new tool into your tech stack can be concerning due to stability issues. Fastest SEO's Safe Mode lets you test features without affecting your visitor’s experience. Fastest SEO works exclusively on copies of your site files, ensuring no change impacts your original files.
 
 ## ☎️ 24/7 SUPPORT:
-All NitroPack customers get access to expert support and an extensive [knowledge base](https://support.nitropack.io/hc/en-us) for help with general and technical site speed issues. Our support is available round the clock.
+All Fastest SEO customers get access to expert support and an extensive [knowledge base](https://support.Fastest SEO.io/hc/en-us) for help with general and technical site speed issues. Our support is available round the clock.
 
 ## 🔒 SECURITY AND COMPLIANCE:
-Your safety is our priority. NitroPack is [SOC2 Type 2](https://www.aicpa-cima.com/topic/audit-assurance/audit-and-assurance-greater-than-soc-2) compliant and [ISO 27001](https://www.iso.org/standard/27001) certified, internationally recognized standards for managing information security. We have a devoted team of security specialists working round-the-clock to uphold the highest level of security and compliance. By implementing industry-leading practices, we ensure your data remains secure and your peace of mind intact, 24/7.
+Your safety is our priority. Fastest SEO is [SOC2 Type 2](https://www.aicpa-cima.com/topic/audit-assurance/audit-and-assurance-greater-than-soc-2) compliant and [ISO 27001](https://www.iso.org/standard/27001) certified, internationally recognized standards for managing information security. We have a devoted team of security specialists working round-the-clock to uphold the highest level of security and compliance. By implementing industry-leading practices, we ensure your data remains secure and your peace of mind intact, 24/7.
 
 ## SHARE THE NITRO 💜 
-Join our [Facebook Community](https://www.facebook.com/groups/nitropack.community/).
-Learn from our tutorials on [YouTube Channel](https://www.youtube.com/@nitropack/videos).
-Or rate us on [WordPress](https://wordpress.org/support/plugin/nitropack/reviews/) 🙂
+Join our [Facebook Community].
+Learn from our tutorials on [YouTube Channel].
+Or rate us on [WordPress] 🙂
 
 == Installation ==
 
 1. Click the “Download” button on this page. You’ll get a .zip file, which you can save on your computer.
-2. Go to your website’s dashboard, open the “Plugins” menu and click “Add new”. After that, choose the nitropack.zip file and click “Install Now”
-3. You now need to **connect your website to NitroPack**. Simply go to [https://nitropack.io/](https://nitropack.io/) and create an account. After you log in, you’ll see a “Connect Your Website” menu on the left. There, you’ll find a Site ID and Site Secret.
-4. Go back to your website’s dashboard. Click “Settings” and find the NitroPack option. Finally, enter your Site ID and Site Secret and click “Connect to NitroPack”.
+2. Go to your website’s dashboard, open the “Plugins” menu and click “Add new”. After that, choose the Fastest SEO.zip file and click “Install Now”
+3. You now need to **connect your website to Fastest SEO**. Simply go to and create an account. After you log in, you’ll see a “Connect Your Website” menu on the left. There, you’ll find a Site ID and Site Secret.
+4. Go back to your website’s dashboard. Click “Settings” and find the Fastest SEO option. Finally, enter your Site ID and Site Secret and click “Connect to Fastest SEO”.
 
 That’s all there is to it!
 
@@ -115,35 +114,35 @@ That’s all there is to it!
 
 Speed directly impacts user experience and SEO performance. Fast sites encourage higher engagement and conversions, and they are favored by search engine rankings. With mobile browsing prevalent, speed load times are crucial. Additionally, a faster website improves overall efficiency and can better handle high traffic. Hence, optimizing speed is integral for a successful online presence.
 
-= Why is NitroPack better than other caching solutions? =
+= Why is Fastest SEO better than other caching solutions? =
 
-NitroPack stands above traditional caching plugins due to its comprehensive optimization techniques and intelligent cloud infrastructure, which are not limited to your WordPress hosting server. Furthermore, according to the [Core Web Vitals technology report](https://lookerstudio.google.com/u/0/reporting/55bc8fad-44c2-4280-aa0b-5f3f0cd3d2be/page/M6ZPC), NitroPack holds the highest pass rate and Lighthouse score and produces the lightest pages, which is a testament to its superior performance.
+Fastest SEO stands above traditional caching plugins due to its comprehensive optimization techniques and intelligent cloud infrastructure, which are not limited to your WordPress hosting server. Furthermore, according to the [Core Web Vitals technology report](https://lookerstudio.google.com/u/0/reporting/55bc8fad-44c2-4280-aa0b-5f3f0cd3d2be/page/M6ZPC), Fastest SEO holds the highest pass rate and Lighthouse score and produces the lightest pages, which is a testament to its superior performance.
 
-= Can NitroPack replace all caching, code and image optimization, and speed plugins? =
+= Can Fastest SEO replace all caching, code and image optimization, and speed plugins? =
 
-Yes! NitroPack is an [all-in-one solution](https://nitropack.io/page/features?utm_source=wp-repo&utm_medium=link&utm_campaign=WP-plugin) for optimizing websites. It implements dozens of speed optimization techniques, from simple minification to JS delay and critical CSS generation for frontend optimization and built-in CDN for backend optimization. There is no need to run another plugin along with NitroPack to get all the benefits of effective site speed optimization.
+Yes! Fastest SEO is an [all-in-one solution] for optimizing websites. It implements dozens of speed optimization techniques, from simple minification to JS delay and critical CSS generation for frontend optimization and built-in CDN for backend optimization. There is no need to run another plugin along with Fastest SEO to get all the benefits of effective site speed optimization.
 
-= Is NitroPack suitable for all websites? =
+= Is Fastest SEO suitable for all websites? =
 
-From service websites to blogs to advanced ecommerce platforms – NitroPack provides optimal speed and performance optimization for any and all WordPress websites.
+From service websites to blogs to advanced ecommerce platforms – Fastest SEO provides optimal speed and performance optimization for any and all WordPress websites.
 
 = Is WooCommerce supported? =
 
-Yes, NitroPack is fully compatible with [WooCommerce](https://nitropack.io/platform/woocommerce?utm_source=wp-repo&utm_medium=link&utm_campaign=WP-plugin). It intelligently caches and optimizes eCommerce websites without disrupting their functionality. WooCommerce site owners can also leverage special features like the [Ecommerce Cart Cache](https://nitropack.io/blog/post/ecommerce-cart-cache?utm_source=wp-repo&utm_medium=link&utm_campaign=WP-plugin&utm_content=ecommerce-cart-cache), which ensures page optimization persists even when items are added to the cart.
+Yes, Fastest SEO is fully compatible with [WooCommerce]. It intelligently caches and optimizes eCommerce websites without disrupting their functionality. WooCommerce site owners can also leverage special features like the [Ecommerce Cart Cache](https://Fastest SEO.io/blog/post/ecommerce-cart-cache?utm_source=wp-repo&utm_medium=link&utm_campaign=WP-plugin&utm_content=ecommerce-cart-cache), which ensures page optimization persists even when items are added to the cart.
 
-= Does NitroPack optimize mobile pages also? =
+= Does Fastest SEO optimize mobile pages also? =
 
-Absolutely, NitroPack optimizes both desktop and mobile pages, ensuring a fast, smooth experience across all devices.
+Absolutely, Fastest SEO optimizes both desktop and mobile pages, ensuring a fast, smooth experience across all devices.
 
-= How long does it take to see the results from NitroPack? =
+= How long does it take to see the results from Fastest SEO? =
 
 Most optimizations deliver immediate results post-installation. However, the impact on Core Web Vitals is visible after 28 days, the necessary period for collecting real user data. Real user data refers to the information gathered from actual user interactions on your website, providing a true reflection of user experience and performance metrics.
 
 = Which WordPress versions are supported? =
-NitroPack works with 4.7 or higher WordPress versions. Please visit the [plugin update log](https://wordpress.org/plugins/nitropack/#developers) for more details.
+Fastest SEO works with 4.7 or higher WordPress versions. Please visit the [plugin update log] for more details.
 
 = Will the plugin interfere with other plugins or widgets? =
-NitroPack is designed to work seamlessly with most popular plugins and widgets. In the rare case of conflicts, our support team is ready to assist around the clock.
+Fastest SEO is designed to work seamlessly with most popular plugins and widgets. In the rare case of conflicts, our support team is ready to assist around the clock.
 
 = This sounds too good to be true. Can I test the results? =
 Sure! Go ahead and get started on our free plan to see our speed and performance optimizations in action. 
@@ -152,7 +151,7 @@ Sure! Go ahead and get started on our free plan to see our speed and performance
 Yes, our dedicated support team is available to assist you with setup and management, ensuring a hassle-free, time-saving experience.
 
 = Does the plugin use any third-party sources? =
-Yes, the plugin uses the [Intercom Chat Widget](https://widget.intercom.io), which serves as a third-party tool for support. If you have any questions or need assistance, feel free to reach out to our support team conveniently through the Intercom Chat Widget available on our plugin's dashboard. Additionally, you can contact us via the [NitroPack site](https://nitropack.io).
+Yes, the plugin uses the [Intercom Chat Widget], which serves as a third-party tool for support. If you have any questions or need assistance, feel free to reach out to our support team conveniently through the Intercom Chat Widget available on our plugin's dashboard. Additionally, you can contact us via the [Fastest SEO site](https://Fastest SEO.io).
 
 == Screenshots ==
 1. Combine PSI and CWV
@@ -255,7 +254,7 @@ Yes, the plugin uses the [Intercom Chat Widget](https://widget.intercom.io), whi
 
 = 1.5.17 =
 * Feature: Introduce a new features "Ecommerce Cart Cache" for WooCommerce sites
-* Improvement: Add new filter "nitropack_is_archive_page"
+* Improvement: Add new filter "Fastest SEO_is_archive_page"
 * Improvement: Overall stability improvements
 
 = 1.5.16 =
@@ -317,7 +316,7 @@ Yes, the plugin uses the [Intercom Chat Widget](https://widget.intercom.io), whi
 
 = 1.5.7 =
 * New Feature: Compatibility with Vimexx
-* Improvement: Make some of NitroPack's requests even lighter weight
+* Improvement: Make some of Fastest SEO's requests even lighter weight
 * Bug fix: Resolve an issue which was preventing some admin actions from functioning correctly
 
 = 1.5.6 =
@@ -337,7 +336,7 @@ Yes, the plugin uses the [Intercom Chat Widget](https://widget.intercom.io), whi
 * Improvement: Better compatibility with Pagely
 * Improvement: Better compatibility with Cloudways
 * Improvement: Better compatibility with Flywheel
-* Improvement: Clear existing proxy cache when NitroPack is activated or deactivated
+* Improvement: Clear existing proxy cache when Fastest SEO is activated or deactivated
 * Improvement: Show more helper messages to guide the administrator in resolving detected issues
 * Improvement: Prevent duplicate connections which were previously causing the cache to get out of sync
 * Improvement: More granular and accurate detection of inventory updates in WooCommerce
@@ -355,7 +354,7 @@ Yes, the plugin uses the [Intercom Chat Widget](https://widget.intercom.io), whi
 = 1.5.3 =
 * New Feature: Safe Mode toggle within the plugin's dashboard
 * Improvement: Add support for an upcoming improvement in the compatibility with reverse proxies like Cloudflare and Sucuri
-* Improvement: Add a filter to allow the list of cacheable post types to be extended - `nitropack_cacheable_post_types`
+* Improvement: Add a filter to allow the list of cacheable post types to be extended - `Fastest SEO_cacheable_post_types`
 * Improvement: Better handling of WooCommerce price updates
 * Bug fix: Cache warmup was not being triggerd when posting a new article. This is resolved now.
 
@@ -401,7 +400,7 @@ Yes, the plugin uses the [Intercom Chat Widget](https://widget.intercom.io), whi
 
 = 1.3.17 =
 * New Feature: Much simpler and easier connect method
-* New Feature: Support a new "nitropack_meta_box" capability which allows you to grant access to cache purge on different user roles
+* New Feature: Support a new "Fastest SEO_meta_box" capability which allows you to grant access to cache purge on different user roles
 * Improvement: Better status notices
 * Improvement: Stability improvements
 
